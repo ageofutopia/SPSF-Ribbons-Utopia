@@ -26,8 +26,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.73986405"
-     inkscape:cx="350.74011"
-     inkscape:cy="-106.77637"
+     inkscape:cx="672.42083"
+     inkscape:cy="-77.041181"
      inkscape:current-layer="svg1035"
      showguides="true"
      inkscape:snap-bbox="true"
@@ -129,7 +129,7 @@
        inkscape:swatch="solid"
        gradientTransform="translate(-8844,-13176)">
       <stop
-         style="stop-color:#f0b400;stop-opacity:1;"
+         style="stop-color:#be8437;stop-opacity:1;"
          offset="0"
          id="stop3083" />
     </linearGradient>
@@ -212,7 +212,7 @@
        gradientTransform="matrix(0.17900416,0,0,0.17900416,20.52061,-43.026183)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient45718"
+       xlink:href="#linearGradient3085"
        id="linearGradient31574"
        x1="399"
        y1="321.03601"
